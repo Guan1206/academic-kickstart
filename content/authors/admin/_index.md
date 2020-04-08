@@ -30,10 +30,10 @@ education:
   #- course: PhD in Artificial Intelligence
   #  institution: Stanford University
   #  year: 2012
-  - course: Msc in Big data & High Performance Computing
+  - course: Msc in Big Data & High Performance Computing
     institution: University of Liverpool
     year: 2018
-  - course: BSc in Information management & System
+  - course: BSc in Information Management & System
     institution: Nanjing Audit University
     year: 2017
 
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I am a first year PhD student of the smARTLab at the Department of Computer Science, University of Liverpool. My research is mainly about sensory synergy of tactile sensing and vision, e.g., perception for manipulation for grasping, fusion of multimodal sensing . 
+I am a first year PhD student of the smARTLab at the Department of Computer Science, University of Liverpool. My research is mainly about sensory synergy of tactile sensing and vision for grasping, e.g., perception for manipulation, fusion of multimodal sensing . 
