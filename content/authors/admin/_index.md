@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I am a first year PhD student of the smARTLab at the Department of Computer Science, University of Liverpool. My research is mainly about sensory synergy of tactile sensing and vision for grasping, e.g., perception for manipulation, fusion of multimodal sensing . 
+I am a second year PhD student of the smARTLab at the Department of Computer Science, University of Liverpool. My research is mainly about sensory synergy of tactile sensing and vision for grasping, e.g., perception for manipulation, fusion of multimodal sensing . 
