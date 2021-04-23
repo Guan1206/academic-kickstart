@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Publications"
-subtitle = "June 2020 - One paper accepted to IROS 2020"
+subtitle = "Spatio-temporal Attention Model for Tactile Texture Recognition" accepted by IROS2020
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
